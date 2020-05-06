@@ -56,6 +56,10 @@ namespace monthseason
             {
                 Console.WriteLine("겨울");
             }
+            else
+            {
+                Console.WriteLine("잘못 입력하셨습니다.");
+            }
         }
     }
 }
